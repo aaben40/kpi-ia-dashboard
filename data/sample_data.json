@@ -1,0 +1,29 @@
+
+{
+  "kpi_actuel": {
+    "ventes_totales": 150000,
+    "nombre_clients": 1250,
+    "taux_conversion": 3.5,
+    "revenu_moyen_client": 120,
+    "satisfaction_client": 4.8,
+    "croissance_mensuelle": 12.5,
+    "cout_acquisition": 45
+  },
+  "historique": [
+    {
+      "date": "2024-01-30",
+      "ventes_totales": 120000,
+      "nombre_clients": 1100
+    },
+    {
+      "date": "2024-02-29",
+      "ventes_totales": 135000,
+      "nombre_clients": 1175
+    },
+    {
+      "date": "2024-03-30",
+      "ventes_totales": 150000,
+      "nombre_clients": 1250
+    }
+  ]
+}

@@ -59,7 +59,7 @@ Ce projet démontre comment:
 
 1. **Naviguer au projet**
 ```bash
-cd "c:\Users\adss4\OneDrive - Association Cesi Viacesi mail\Documents\Projet LLM"
+cd votre pattern
 ```
 
 2. **Créer un environnement virtuel**
@@ -483,28 +483,4 @@ Suggestions d'améliorations:
 
 MIT License - Utilisez librement pour apprendre et développer
 
----
-
-## 🎓 Pour les entretiens techniques
-
-Ce projet démontre:
-- ✅ **Full-stack development** (Frontend + Backend + IA)
-- ✅ **REST API design** avec FastAPI
-- ✅ **Problem-solving** (débuggage, itération, fallback mechanisms)
-- ✅ **Integration LLM** avec gestion multi-provider
-- ✅ **Python async/await** et gestion asynchrone
-- ✅ **Configuration management** avec variables d'environnement
-- ✅ **Architecture scalable** et extensible
-
-**Points forts à mettre en avant:**
-1. Migration provider (OpenAI → Gemini) pour résoudre quota exhaustion
-2. Debug itératif des modèles Gemini via ListModels
-3. Architecture multi-couches séparant concerns (UI/API/IA)
-4. Gestion d'erreurs robuste avec fallback chain
-5. Documentation auto-générée (Swagger)
-
----
-
-**Créé pour démontrer l'intégration LLM moderne** 🚀
-
-Dernier update: Mars 2026
+Dernier update: Décembre 2025
